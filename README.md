@@ -14,3 +14,4 @@ My goal is to enhance my coding skills and document my learning journey through 
 | # | Problem | Difficulty | Solution |  
 |---|---------|------------|----------|  
 | 1 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Código](./top_interview_150/merged_sorted_array.c) |
+| 2 | [Remove Element](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | Easy | [Código](./top_interview_150/merged_sorted_array.c) |
